@@ -1,9 +1,8 @@
 streamlit==1.32.2
 langchain==0.1.12
-langchain-community==0.0.24
+langchain-community==0.0.28
 langchain-openai==0.0.8
 openai==1.13.3
 pypdf==4.1.0
-chromadb==0.4.24
 tiktoken==0.6.0
 faiss-cpu==1.7.4
