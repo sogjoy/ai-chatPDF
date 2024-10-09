@@ -7,3 +7,4 @@ pysqlite3-binary
 langchain_community
 langchain_openai
 faiss-cpu==1.7.4
+streamlit
